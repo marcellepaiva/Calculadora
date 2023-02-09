@@ -1,2 +1,2 @@
 # https://marcellepaiva.github.io/Calculadora/ 
-calculadora simples com HTML, CSS e JAVASCRIPT
+Calculadora desenvovlvida em HTML, CSS e JAVASCRIPT
